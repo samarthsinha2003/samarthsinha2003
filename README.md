@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on developing skills regarding AI/ML and coding languages<br>🌱 I’m currently learning to create different Neural Networks with different optimizations<br>👯 I’m looking to collaborate on projects involving application development or AI/ML<br>🤔 I’m looking for help with life ;)<br>⚡ Fun fact: I bake a mean cheesecake<br>💼 Work: I have interned at J.B. Hunt as a Software Engineer Intern and will be doing so again this summer!
+🔭 I’m currently working on developing skills regarding AI/ML and coding languages<br>🌱 I’m currently learning different Computer Vision based coding and am focusing on projects involving on that as well as fun projects that involve making games.<br>👯 I’m looking to collaborate on projects involving application development or AI/ML<br>🤔 I’m looking for help with life ;)<br>⚡ Fun fact: I can semi-successfully ski jump off a ramp<br>💼 Work: I work part-time at J.B. Hunt as a Software Develepor Intern!
 
 
 ## 🌐 Socials:
