@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on developing skills regarding AI/ML and coding languages<br>🌱 I’m currently learning different Computer Vision based coding and am focusing on projects involving on that as well as fun projects that involve making games.<br>👯 I’m looking to collaborate on projects involving application development or AI/ML<br>🤔 I’m looking for help with life ;)<br>⚡ Fun fact: I can semi-successfully ski jump off a ramp<br>💼 Work: I work part-time at J.B. Hunt as a Software Develepor Intern!
+🔭 I’m currently working on developing skills regarding AI/ML and coding languages<br>🌱 I’m currently learning different Computer Vision based coding and am focusing on projects involving on that as well as fun projects that involve making games.<br>👯 I’m looking to collaborate on projects involving application development or AI/ML<br>🤔 I’m looking for help with life ;)<br>⚡ Fun fact: I can semi-successfully ski jump off a ramp<br>💼 Work: I work Full-time at J.B. Hunt as a Software Engineer 1!
 
 
 ## 🌐 Socials:
